@@ -1,1 +1,1 @@
-# Miljan-AI.GitHub.IO
+# Miljan.GitHub.IO
