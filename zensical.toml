@@ -27,7 +27,7 @@ site_author = "Miljan Vukadinovic"
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-site_url = "https://miljan.github.io/"
+site_url = "https://oceanstar88.github.io/"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
@@ -43,8 +43,8 @@ site_dir = "site"
 use_directory_urls = true
 dev_addr = "localhost:3000"
 
-# repo_url = "https://github.com/OceanStarHit/Miljan-AI.GitHub.IO"
-# repo_name = "Miljan-AI.GitHub.IO"
+# repo_url = "https://github.com/OceanStar88.GitHub.IO"
+# repo_name = "OceanStar88.GitHub.IO"
 # edit_uri = "edit/main/docs/"
 
 

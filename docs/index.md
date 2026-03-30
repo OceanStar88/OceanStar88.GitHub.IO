@@ -83,7 +83,7 @@ Building scalable AI systems, LLM-powered agents, and computer vision solutions.
 </div>
 
 
-[Experience](/Experience) • 
+[Experience](Experience/index.md) • 
 [Projects](/Projects) • 
 [Notes](/Notes) • 
 [About](/About)
