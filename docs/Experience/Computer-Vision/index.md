@@ -7,7 +7,7 @@ icon: lucide/eye
 
 # :lucide-eye: Computer Vision
 
-**Period:** 2016 – 2017  
+**Period:** 2019 – 2020  
 **Scope:** Classical Computer Vision & Early Deep Learning  
 **Tools:** OpenCV · NumPy · Python  
 

@@ -7,7 +7,7 @@ icon: material/brain
 
 # :material-brain: Deep Learning
 
-**Period:** 2018 – 2022  
+**Period:** 2021 – 2022  
 **Scope:** Deep Learning (Vision & Audio)  
 **Tools:** TensorFlow · PyTorch  
 

@@ -7,7 +7,7 @@ icon: lucide/video
 
 # :lucide-video: Camera System
 
-**Period:** 2011 – 2015  
+**Period:** 2016 – 2018  
 **Scope:** Camera Electro-Optical Systems  
 **Tools:** MATLAB  
 
